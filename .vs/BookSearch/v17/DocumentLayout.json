@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\temp\\Hani\\BookSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\models\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\models\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\views\\book\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|d:\\temp\\hani\\booksearch\\booksearch\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D157916F-C32C-42BD-A9BC-43E7E271685E}|BookSearch\\BookSearch.csproj|solutionrelative:booksearch\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookSearch\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookSearch\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:10:43.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Program.cs",
+              "RelativeDocumentMoniker": "BookSearch\\Program.cs",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Program.cs",
+              "RelativeToolTip": "BookSearch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:05:02.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Book\\Add.cshtml",
+              "RelativeDocumentMoniker": "BookSearch\\Views\\Book\\Add.cshtml",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Book\\Add.cshtml",
+              "RelativeToolTip": "BookSearch\\Views\\Book\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:04:35.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookSearch\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BookSearch\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:04:03.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookSearch\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookSearch\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:03:29.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookSearch\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookSearch\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:10:36.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Models\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookSearch\\Models\\BookRepository.cs",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Models\\BookRepository.cs",
+              "RelativeToolTip": "BookSearch\\Models\\BookRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:02:47.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookSearch\\Models\\Book.cs",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Models\\Book.cs",
+              "RelativeToolTip": "BookSearch\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T13:01:57.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "BookSearch\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\temp\\Hani\\BookSearch\\BookSearch\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "BookSearch\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T13:10:34.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

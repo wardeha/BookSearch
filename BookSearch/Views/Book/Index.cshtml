@@ -1,0 +1,35 @@
+﻿@model List<Book>
+
+<h1>Book List</h1>
+
+<a asp-action="Add">Add New Book</a>
+
+<form asp-action="Search" method="get">
+    <input type="text" name="searchTerm" placeholder="Search books...">
+    <button type="submit">Search</button>
+</form>
+
+@if (Model != null && Model.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var book in Model)
+            {
+                <tr>
+                    <td>@book.Title</td>
+                    <td>@book.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No books available.</p>
+}
